@@ -1,0 +1,56 @@
+{
+  "pools": [
+    {
+      "name": "scale",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "mwaw:sandscale",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 3
+              }
+            },
+            {
+              "function": "looting_enchant",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tusk",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "mwaw:sandwyrmtusk",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": -1,
+                "max": 2
+              }
+            },
+            {
+              "function": "looting_enchant",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

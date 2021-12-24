@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "^#^",
+    "^#^",
+    " B "
+  ],
+  "key": {
+    "#": {
+      "item": "mwaw:voidstardust"
+    },
+    "^": {
+      "item": "minecraft:gold_nugget"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "mwaw:marrowsword"
+  }
+}

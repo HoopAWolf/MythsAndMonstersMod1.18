@@ -1,0 +1,38 @@
+{
+  "lightningsound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "lightningsound",
+        "stream": false
+      }
+    ]
+  },
+  "whisper": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "whisper",
+        "stream": false
+      }
+    ]
+  },
+  "laugh": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "laugh",
+        "stream": false
+      }
+    ]
+  },
+  "blinding": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "blinding",
+        "stream": false
+      }
+    ]
+  }
+}

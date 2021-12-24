@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "mwaw:blocks/corpsewood_top",
+    "side": "mwaw:blocks/corpsewood"
+  }
+}

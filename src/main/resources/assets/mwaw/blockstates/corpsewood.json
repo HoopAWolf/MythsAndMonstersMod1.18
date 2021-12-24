@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "mwaw:block/corpsewood"
+    },
+    "axis=z": {
+      "model": "mwaw:block/corpsewood",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "mwaw:block/corpsewood",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

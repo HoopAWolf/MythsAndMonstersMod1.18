@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "mwaw:goldenbow"
+    },
+    "title": {
+      "translate": "itemGroup.mwawItemGroup"
+    },
+    "description": {
+      "translate": "advancements.mwaw.root.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png"
+  },
+  "criteria": {
+    "spawned": {
+      "trigger": "minecraft:tick",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "spawned"
+    ]
+  ]
+}

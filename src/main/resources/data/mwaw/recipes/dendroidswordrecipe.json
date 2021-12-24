@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " # ",
+    "#^#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "mwaw:dendroidroot"
+    },
+    "^": {
+      "item": "mwaw:dendroideye"
+    }
+  },
+  "result": {
+    "item": "mwaw:dendroidsword"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "mwaw:root",
+  "display": {
+    "icon": {
+      "item": "mwaw:dendroidsword"
+    },
+    "title": {
+      "translate": "advancements.mwaw.killfairy.title"
+    },
+    "description": {
+      "translate": "advancements.mwaw.killfairy.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fairy": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "mwaw:fairy"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "fairy"
+    ]
+  ]
+}
